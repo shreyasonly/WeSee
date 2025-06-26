@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face Recognition System
 
 ## Project Overview
@@ -100,3 +101,7 @@ wesee/
 
 ## Credits
 Developed by Shreyas and contributors. Powered by MediaPipe, DeepFace, and OpenCV. 
+=======
+# WeSee
+Facial Recognizing
+>>>>>>> 0358e56112f012ea317b51ae11d8afc07188eae4
